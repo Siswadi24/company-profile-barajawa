@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Hallo
 
-Template Name: Appland
-Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+ini adalah Readme Company Profile dari PT Barajawa
